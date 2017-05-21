@@ -1,5 +1,4 @@
 <pre> 
-
 Domain : Data mining 
 
 This project includes data extraction from Yelp provided API which contains details and reviews 
