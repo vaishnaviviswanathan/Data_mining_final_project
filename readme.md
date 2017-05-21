@@ -1,4 +1,5 @@
-Domain : Data mining
+<pre> Domain : Data mining 
+
 This project includes data extraction from Yelp provided API which contains details and reviews on various restaurants in different locations of four different country. We analyzed the data to produce accurate and interesting results. 
 Some of the project's scope was to analyze the trend in four different states in the United States.
 
@@ -20,3 +21,5 @@ During the weekends alone, there was a drastic drop on Saturday and sudden incre
 CONCLUSION
 - People tend to go out more during the weekdays than weekends. 
 - The results of the normalization showed that Nevada-Arizona were similar. Whereas our prediction of Pennsylvania-Wisconsin being similar did not match.
+
+<pre>
